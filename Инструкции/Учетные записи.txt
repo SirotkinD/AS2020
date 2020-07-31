@@ -1,0 +1,6 @@
+Администратор
+admin@yandex.ru admin
+Пользователь
+user@yandex.ru 123ASDasd@
+todor@mail.ru 123ASDasd@
+drontaxi@yandex.ru 123ASDasd@
